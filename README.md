@@ -1,4 +1,4 @@
- # The 9th Junior Conference on Data Sciences and Engineering
+ # Paris Generative AI Autumn School
 
 [**Description**](#description)
 | [**Important Dates**](#important-dates)
@@ -49,7 +49,9 @@ If you fit either description, this autumn school is for you!
 All deadlines are 23:59 AoE (UTC-12)
 
 ## Speakers 
-* **[Xavier Alameda-Pineda](http://truc.com)** - INRIA
+
+### Keynote
+* **[Xavier Alameda-Pineda]([http://truc.com](http://xavirema.eu/))** - INRIA
 * **[Antoine Bosselut](https://atcbosselut.github.io/)** - EPFL
 * **[Claire Boyer](https://www.imo.universite-paris-saclay.fr/~claire.boyer/)** - Sorbonne University
 * **[Merouane Debbah](https://www.ku.ac.ae/college-people/merouane-debbah)** - Khalifa University
@@ -61,7 +63,17 @@ All deadlines are 23:59 AoE (UTC-12)
 * **[Yunhao (Robin) Tang](https://robintyh1.github.io/)** - Meta GenAI London
 * **[Denis Trystam](https://datamove.imag.fr/denis.trystram/)** - Grenoble INP
 
+
+### Lab session 
+* **[Manuel Faysse]([https://datamove.imag.fr/denis.trystram/](https://manuelfay.github.io/#))** - CentraleSupélec, Université Paris-Saclay/Illuin Technology
+* **[Badr Moufad](https://github.com/Badr-MOUFAD)** - LIX, IPP
+* **[Yazid Janati]([https://github.com/Badr-MOUFAD](https://yazidjanati.github.io/)** - LIX, IPP
+* **[Yunhao (Robin) Tang](https://robintyh1.github.io/)** - Meta GenAI London
+* **Xi Wang** - LIX, IPP
+
 More information about the speakers [here](https://paris-genai-school.github.io/speakers).
+
+
 
 ## Organization Committee
 
