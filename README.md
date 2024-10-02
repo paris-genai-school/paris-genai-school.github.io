@@ -3,7 +3,6 @@
 [**Description**](#description)
 | [**Important Dates**](#important-dates)
 | [**Speakers**](#speakers)
-| [**Organization Committee**](#organization-committee)
 
 
 ## Description
