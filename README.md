@@ -1,5 +1,3 @@
- # Paris Generative AI Autumn School
-
 [**Description**](#description)
 | [**Important Dates**](#important-dates)
 | [**Speakers**](#speakers)
