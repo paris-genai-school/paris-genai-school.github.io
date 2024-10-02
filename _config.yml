@@ -12,5 +12,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme 
 
-title: [Junior Conference on Data Sciences and Engineering]
-description: [Junior Conference on Data Sciences and Engineering]
+title: [Paris Generative AI Autumn School]
+description: [Paris GenAI-School's website]
