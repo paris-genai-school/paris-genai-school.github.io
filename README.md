@@ -2,50 +2,72 @@
 
 [**Description**](#description)
 | [**Important Dates**](#important-dates)
-| [**Keynotes**](#keynotes)
+| [**Speakers**](#speakers)
 | [**Organization Committee**](#organization-committee)
 
 
 ## Description
-The 9th edition of the Junior Conference on Data Science and Engineering (JDSE) is a great opportunity for **master students** and
-**young researchers** to **present recent research** results. Receiving feedback and sharing your initial research results presents
-a chance to expand your knowledge and presentation skills. Keynote presentations by researchers from academia and industry
-are included for you to start building your professional network. This event is co-organised by Université Paris-Saclay (UPSaclay)
-and Institut Polytechnique de Paris (IPP). <br>
 
-We invite second-year master students and first/second-year PhD students from UPSaclay and IPP to present their current
-research at the **Junior Conference on Data Science and Engineering (JDSE)**. Ongoing works with preliminary results are
-welcome and highly encouraged. <br>
+The GenAI-School aims to provide an overview of the latest advances in generative AI, covering theoretical foundations, methodologies, and practical industrial applications beyond NLP. The program will introduce fundamental methodological tools and presentations from experts across diverse scientific fields.
 
-Topics of interest include, but are not restricted to:
-* Applied Machine Learning and Deep Learning (NLP, Computer Vision, Bioinformatics, Audio Processing...)
-* Theoritical Machine Learning (statistics, learning theory, optimization, ...)
-* Data mining and Big Data analytics
-* Databases
-* Semantic Web
-* Application of Data Science (biomedical/biological data, physics, chemistry, image, audio, video, ...)
-* Data Privacy
+The basic methodological tools will be presented, and then speakers from different scientific fields will present the most recent applications and developments. The aim is to bring together various speakers to cover a broad range of fields of study and offer participants an overview of generative AI and its applications.
+The school will also be an excellent opportunity to build your network, discuss your research (during poster sessions and flash talks), and learn about post-doctorate opportunities.
 
+This event is co-organized by Université Paris-Saclay and Institut Polytechnique de Paris and co-financed by the DIM AI4IDF. 
+
+Topics will include : 
+
+* Foundations of generative models: VAE, GAN, and diffusion models,
+* Large Language Models and advanced techniques (e.g., RAG),
+* Multimodal generation,
+* Frugal models,
+* Ethics of generative AI,
+* Applications of generative AI to :
+   * Audio synthesis,
+   * Climate change,
+   * Image and video generation,
+   * Medical data,
+   * Meteorology,
+   * Telecommunications and networking,
+   * Robotics
+   * ...
+
+## Target audience :
+* Master/PhD students or researchers with a background in AI/ML interested in the latest advances in generative AI.
+* Master/PhD students or researchers from other fields eager to explore the potential of generative AI for their work.
+
+If you fit either description, this autumn school is for you!
+    
 ## Important Dates
-* Submission Deadline: 25 August 2024
-* Notification to authors: 13 September 2024
-* Registration: 19 September 2024
-* **Conference: 26-27 September 2024**
+* First round application deadline: 16th of June 2024
+* Notification to applicants: 30th of June 2024
+* Second round application deadline: 16th of July 2024
+* Notification to applicants: 30th of July 2024
+* Master students notification: after the 15th of September 2024
+* **School: 21-25 October 2024**
 
 All deadlines are 23:59 AoE (UTC-12)
 
-## Keynotes
-* **Alessandra Carbone**, *Sorbonne University* - Deep Learning in protein-protein interactions
-* **Anthony Countant**, *HephIA* - Trajectoire d'une Startup Deep Tech en IA : De l'IA exploratoire pour les industries à l'IA générative pour le droit
-* **Harley Davis**, *Athena Decision Systems* - AI Agent Precision: Maximizing decision accuracy with business rules integration
+## Speakers 
+* **[Xavier Alameda-Pineda](http://truc.com)** - INRIA
+* **[Antoine Bosselut](https://atcbosselut.github.io/)** - EPFL
+* **[Claire Boyer](https://www.imo.universite-paris-saclay.fr/~claire.boyer/)** - Sorbonne University
+* **[Merouane Debbah](https://www.ku.ac.ae/college-people/merouane-debbah)** - Khalifa University
+* **[Vicky Kalogeiton](https://vicky.kalogeiton.info/)** - LIX, IPP
+* **[Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/)** - Ecole Polytechnique
+* **[Claire Monteleoni](https://www.colorado.edu/faculty/claire-monteleoni/)** - University of Colorado Boulder/INRIA
+* **[Alasdair Newson](https://sites.google.com/site/alasdairnewson/)** - Sorbonne Université
+* **[Gaël Richard](https://www.telecom-paris.fr/gael-richard)** - IPP/Télécom Paris
+* **[Yunhao (Robin) Tang](https://robintyh1.github.io/)** - Meta GenAI London
+* **[Denis Trystam](https://datamove.imag.fr/denis.trystram/)** - Grenoble INP
 
-More informations about the speakers [here](https://zoechevallier1.github.io/jdse-2024/speakers).
+More information about the speakers [here](https://paris-genai-school.github.io/speakers).
 
 ## Organization Committee
 
-###Scientific Committee
+### Scientific Committee
 * **Msutapha Lebbah**, *Université Paris-Saclay*
-* **Stéphane Lathuillière**, *Institut Polytechnique de Paris*
+* **Stéphane Lathuilière**, *Institut Polytechnique de Paris*
 * **Michel Kieffer**, *Université Paris-Saclay*
 ### Local Arrangement
 * **Marie Laveau**, *Université Paris-Saclay*
