@@ -12,7 +12,7 @@ TBA
 * 4:30 PM - 6:00 PM: **Unveiling the Mechanisms Behind Diffusion Models with Applications to Image Restoration** <br/>
 _Badr Moufad et Yazid Janati_<br/>
 Diffusion Models (DMs) have impressively pervaded the field of generative modeling. They rapidly gained prominence thanks to their remarkable ability to model complex and multi-modal patterns. More importantly, the potential of DMs go beyond mere data generation. For instance, they are viable zero-shorts learner that can be used to solve downstream tasks without further training.
-This practical session will be split into two parts. In the first, we will demystify the foundational aspects of DMs. Using a simple example of 2D points, we will understand key components of a DMs, their interplay, and practical implementation. In the second part, we will explore one among the interesting applications of DMs: solving Bayesian inverse problems. We will look at how we can leverage DMs to solve challenging image restoration problems, such image colorization, Super Resolution, without additional training.
+This practical session will be split into two parts. In the first, we will demystify the foundational aspects of DMs. Using a simple example of 2D points, we will understand key components of a DMs, their interplay, and practical implementation. In the second part, we will explore one among the interesting applications of DMs: solving Bayesian inverse problems. We will look at how we can leverage DMs to solve challenging image restoration problems, such image colorization, Super Resolution, without additional training. <br/>
 Outline.
     * Training score-based diffusion model from first principles
       * Dataset, architecture, training objective: what you need to know
