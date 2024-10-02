@@ -48,7 +48,7 @@ All deadlines are 23:59 AoE (UTC-12)
 ## Speakers 
 
 ### Keynote
-* **[Xavier Alameda-Pineda](http://xavirema.eu/)** - INRIA
+* **[Xavier Alameda-Pineda](http://xavirema.eu/)** - Inria at University Grenoble Alpes, Grenoble, France
 * **[Antoine Bosselut](https://atcbosselut.github.io/)** - EPFL
 * **[Claire Boyer](https://www.imo.universite-paris-saclay.fr/~claire.boyer/)** - Sorbonne University
 * **[Merouane Debbah](https://www.ku.ac.ae/college-people/merouane-debbah)** - Khalifa University
