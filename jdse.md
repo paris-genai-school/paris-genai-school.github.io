@@ -1,6 +1,6 @@
 layout: page
-title: "JDSE 2024"
-permalink: /jdse2024
+title: "Paris GenAI-School 2024"
+permalink: /
 
 
-Junior Conference on Data Science and Engineering (JDSE)
+Paris Generative AI Autumn School (Paris GenAI-School)
