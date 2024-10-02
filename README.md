@@ -10,7 +10,7 @@
 
 The GenAI-School aims to provide an overview of the latest advances in generative AI, covering theoretical foundations, methodologies, and practical industrial applications beyond NLP. The program will introduce fundamental methodological tools and presentations from experts across diverse scientific fields.
 
-The basic methodological tools will be presented, and then speakers from different scientific fields will present the most recent applications and developments. The aim is to bring together various speakers to cover a broad range of fields of study and offer participants an overview of generative AI and its applications.
+The basic methodological tools will be presented, and then speakers from different scientific fields will show the most recent applications and developments. The aim is to bring together various speakers to cover a broad range of fields of study and offer participants an overview of generative AI and its applications.
 The school will also be an excellent opportunity to build your network, discuss your research (during poster sessions and flash talks), and learn about post-doctorate opportunities.
 
 This event is co-organized by Université Paris-Saclay and Institut Polytechnique de Paris and co-financed by the DIM AI4IDF. 
@@ -32,7 +32,7 @@ Topics will include :
    * Robotics
    * ...
 
-## Target audience :
+## Target audience
 * Master/PhD students or researchers with a background in AI/ML interested in the latest advances in generative AI.
 * Master/PhD students or researchers from other fields eager to explore the potential of generative AI for their work.
 
@@ -72,8 +72,6 @@ All deadlines are 23:59 AoE (UTC-12)
 * **Xi Wang** - LIX, IPP
 
 More information about the speakers [here](https://paris-genai-school.github.io/speakers).
-
-
 
 ## Organization Committee
 
