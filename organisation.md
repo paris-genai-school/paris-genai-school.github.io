@@ -1,5 +1,4 @@
 
-## Organization Committee
 
 ### Scientific Committee
 * **Msutapha Lebbah**, *Université Paris-Saclay*
