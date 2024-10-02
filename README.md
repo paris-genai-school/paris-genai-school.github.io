@@ -72,13 +72,3 @@ All deadlines are 23:59 AoE (UTC-12)
 * **Xi Wang** - LIX, IPP
 
 More information about the speakers [here](https://paris-genai-school.github.io/speakers).
-
-## Organization Committee
-
-### Scientific Committee
-* **Msutapha Lebbah**, *Université Paris-Saclay*
-* **Stéphane Lathuilière**, *Institut Polytechnique de Paris*
-* **Michel Kieffer**, *Université Paris-Saclay*
-### Local Arrangement
-* **Marie Laveau**, *Université Paris-Saclay*
-* **Almira Musa**, *Université Paris-Saclay*
