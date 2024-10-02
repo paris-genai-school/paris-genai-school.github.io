@@ -70,4 +70,4 @@ All deadlines are 23:59 AoE (UTC-12)
 * **[Yunhao (Robin) Tang](https://robintyh1.github.io/)** - Meta GenAI London
 * **Xi Wang** - LIX, IPP
 
-More information about the speakers [here](https://paris-genai-school.github.io/speakers).
+More information about the speakers [here](./speakers).
