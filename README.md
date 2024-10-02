@@ -64,7 +64,7 @@ All deadlines are 23:59 AoE (UTC-12)
 
 
 ### Lab session 
-* **[Manuel Faysse]([https://datamove.imag.fr/denis.trystram/](https://manuelfay.github.io/#))** - CentraleSupélec, Université Paris-Saclay/Illuin Technology
+* **[Manuel Faysse](https://manuelfay.github.io/#)** - CentraleSupélec, Université Paris-Saclay/Illuin Technology
 * **[Badr Moufad](https://github.com/Badr-MOUFAD)** - LIX, IPP
 * **[Yazid Janati](https://yazidjanati.github.io/)** - LIX, IPP
 * **[Yunhao (Robin) Tang](https://robintyh1.github.io/)** - Meta GenAI London
