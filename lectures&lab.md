@@ -1,4 +1,4 @@
-# Lectures 
+# Lectures & Lab
 ## Monday the 21st of October
 
 * 9:45 AM - 11:45 AM: **TBA**<br/>
