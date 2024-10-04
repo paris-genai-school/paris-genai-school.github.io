@@ -52,6 +52,7 @@ All deadlines are 23:59 AoE (UTC-12)
 * **[Antoine Bosselut](https://atcbosselut.github.io/)** - EPFL
 * **[Claire Boyer](https://www.imo.universite-paris-saclay.fr/~claire.boyer/)** - Sorbonne University
 * **[Merouane Debbah](https://www.ku.ac.ae/college-people/merouane-debbah)** - Khalifa University
+* **[Manuel Faysse](https://manuelfay.github.io/#)** - CentraleSupélec, Université Paris-Saclay/Illuin Technology
 * **[Vicky Kalogeiton](https://vicky.kalogeiton.info/)** - LIX, IPP
 * **[Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/)** - Ecole Polytechnique
 * **[Claire Monteleoni](https://www.colorado.edu/faculty/claire-monteleoni/)** - University of Colorado Boulder/INRIA
