@@ -89,11 +89,11 @@ TBA
 
 
 * 9:00 AM - 10:30 AM: **TBA**, <br/>
-_Antoine Bossulet _<br/>
+_Antoine Bossulet_<br/>
 TBA
 
 * 11:00 AM - 12:30 AM: **TBA**, <br/>
- _Vicky Kalogeiton _<br/>
+ _Vicky Kalogeiton_<br/>
 TBA
 * 2:00 PM - 3:30 PM: **TBA**, <br/>
 _Xi Wang_<br/>
