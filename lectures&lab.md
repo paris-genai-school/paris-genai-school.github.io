@@ -1,4 +1,7 @@
 # Lectures & Lab
+
+![alt text](Images/Planning.jpg "Schedule")
+
 ## Monday the 21st of October
 
 * 9:45 AM - 11:45 AM: **TBA**<br/>
