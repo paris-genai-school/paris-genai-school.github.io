@@ -6,5 +6,11 @@ How to create its start-up? Feel free!
 
 How: choose 2 mentors among the following list (a form is coming) and have ~20 minutes to chat with them in small groups. 
 
+* **From Software Engineering to AI Researcher and Startup Innovator** - Anthony Coutant, *HephIA* <br>
+Anthony Coutant is the Co-founder, Co-CEO, and CTO of HephIA, a startup developing innovative Generative AI solutions for the legal sector. With a diverse background that spans software engineering, AI research, and business management, Anthony’s career reflects a unique combination of technical expertise and entrepreneurial insight. <br>
+Anthony began his journey with a master’s degree in MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises), which provided a strong foundation in software engineering and business management. His apprenticeship during this period equipped him with the practical skills needed to navigate the intersection of technology and business.<br>
+Afterward, he pursued a PhD in Artificial Intelligence, specializing in unsupervised learning and graphical models applied to social networks. His academic career continued with a postdoctoral project on autonomous robotics in biology, where he developed AI for a robot capable of conducting real-world biological experiments. This work resulted in his being the first author of a publication in PNAS (Proceedings of the National Academy of Sciences), one of the most prestigious scientific journals.<br>
+In parallel, Anthony collaborated with industry leaders like Renault, Safran, and Thalès, applying exploratory AI to solve complex industrial challenges. These experiences demonstrated the potential for AI to scale beyond research applications.<br>
+In 2017, Anthony co-founded HephIA, with the support of the SATT and the X-Up incubator at École Polytechnique. Initially focused on AI for industrial applications, the company pivoted toward Generative AI for the legal sector. Although HephIA is still in the process of reaching full commercial viability, Anthony and his team are refining their product in collaboration with Key Opinion Leaders (KOLs) in the legal industry to ensure a successful market launch.<br>
+Anthony’s trajectory illustrates the challenges and opportunities of transforming cutting-edge AI research into a scalable business. His blend of software development, AI expertise, and business acumen positions him to lead HephIA in tackling real-world challenges, from the lab to the legal sector.
 
-* **Anthony Coutant**, *HephIA* - <br>
