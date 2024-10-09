@@ -3,6 +3,15 @@
 | [**Speakers**](#speakers)
 
 
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="./Images/Logo_GenAI-SCHOOL.png" 
+    alt="GenAI-School Logo">
+</img>
+
 ## Description
 
 The GenAI-School aims to provide an overview of the latest advances in generative AI, covering theoretical foundations, methodologies, and practical industrial applications beyond NLP. The program will introduce fundamental methodological tools and presentations from experts across diverse scientific fields.
