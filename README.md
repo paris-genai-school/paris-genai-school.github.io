@@ -10,7 +10,6 @@
            width: 30%;"
     src="./Images/Logo_GenAI-SCHOOL.png" 
     alt="GenAI-School Logo">
-</img>
 
 ## Description
 
