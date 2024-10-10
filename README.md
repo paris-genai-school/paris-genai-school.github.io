@@ -11,6 +11,15 @@
     src="./Images/Logo_GenAI-SCHOOL.png" 
     alt="GenAI-School Logo">
 
+
+<div style = margin-left: auto;
+           margin-right: auto;">
+
+PUIO, Building 640, Université Paris-Saclay <br>
+ 91400 Orsay<br>
+ https://maps.app.goo.gl/SfnGKoL126r63VJh6<br>
+</div>
+
 ## Description
 
 The GenAI-School aims to provide an overview of the latest advances in generative AI, covering theoretical foundations, methodologies, and practical industrial applications beyond NLP. The program will introduce fundamental methodological tools and presentations from experts across diverse scientific fields.
