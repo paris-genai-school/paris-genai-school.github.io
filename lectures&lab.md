@@ -31,23 +31,29 @@ Outline.
 ## Tuesday the 22nd of October
 
 
-* 9:00 AM - 10:30 AM: **TBA**, <br/>
-_Manuel Faysse_<br/>
-TBA
+
+* 9:00 AM - 10:30 AM: **Reinforcement from human feedback: Some theory and practice**, <br/>
+_Yunhao Tang_<br/>
+Reinforcement learning from human feedback (RLHF) is a major paradigm for the alignment of large language models. In this session, we will go through the basics of RLHF: the basic setup and background on RL, reward and preference models, the online and offline approaches to RLHF, their extensions and limitations. The theoretical discussion will be complemented by a practical session that hinges on the fundamentals.
+
 
 * 11:00 AM - 12:30 AM: **Reinforcement from human feedback: Some theory and practice**, <br/>
 _Yunhao Tang_<br/>
 Reinforcement learning from human feedback (RLHF) is a major paradigm for the alignment of large language models. In this session, we will go through the basics of RLHF: the basic setup and background on RL, reward and preference models, the online and offline approaches to RLHF, their extensions and limitations. The theoretical discussion will be complemented by a practical session that hinges on the fundamentals.
 
 
-* 2:00 PM - 4:00 PM: **Reinforcement from human feedback: Some theory and practice**, <br/>
-_Yunhao Tang_<br/>
-Reinforcement learning from human feedback (RLHF) is a major paradigm for the alignment of large language models. In this session, we will go through the basics of RLHF: the basic setup and background on RL, reward and preference models, the online and offline approaches to RLHF, their extensions and limitations. The theoretical discussion will be complemented by a practical session that hinges on the fundamentals.
-
-
-* 4:30 PM - 6:00 PM: **TBA**, <br/>
+* 2:00 PM - 3:30 PM: **How to train a LLM in 2024**, <br/>
 _Manuel Faysse_<br/>
-TBA
+In this talk, we will explore large language model pretraining through the concrete example of CroissantLLM, a small bilingual english-french language model released at the beginning of the year. <br>
+This will enable us to dive into various topics such as model architectures, scaling laws, data collection, tokenization, instruction-tuning...<br>
+In a constantly evolving field, we will finally reflect upon where future developments are heading.<br>
+
+* 4:00 PM - 5:30 PM: **How to train a LLM in 2024**, <br/>
+_Manuel Faysse_<br/>
+In this talk, we will explore large language model pretraining through the concrete example of CroissantLLM, a small bilingual english-french language model released at the beginning of the year. <br>
+This will enable us to dive into various topics such as model architectures, scaling laws, data collection, tokenization, instruction-tuning...<br>
+In a constantly evolving field, we will finally reflect upon where future developments are heading.<br>
+
 
 ## Wednesday the 23rd of October
 
