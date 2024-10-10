@@ -12,13 +12,10 @@
     alt="GenAI-School Logo">
 
 
-<div style = margin-left: auto;
-           margin-right: auto;">
-
 PUIO, Building 640, Université Paris-Saclay <br>
  91400 Orsay<br>
  https://maps.app.goo.gl/SfnGKoL126r63VJh6<br>
-</div>
+
 
 ## Description
 
