@@ -11,7 +11,7 @@
     src="./Images/Logo_GenAI-SCHOOL.png" 
     alt="GenAI-School Logo">
 
-
+Grand Amphi <br>
 PUIO, Building 640, Université Paris-Saclay <br>
 91400 Orsay<br>
 [https://maps.app.goo.gl/SfnGKoL126r63VJh6](https://maps.app.goo.gl/SfnGKoL126r63VJh6)
