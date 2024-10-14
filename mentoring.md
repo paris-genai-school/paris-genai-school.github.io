@@ -33,5 +33,16 @@ Nadjib's research interests encompass Constraint Programming, Data Mining, Machi
 Nadjib’s career exemplifies a successful blend of academic achievement and practical application, positioning him as a prominent figure in the field of AI research and education. <br>
 Personnal page: [https://www.lirmm.fr/~lazaar/](https://www.lirmm.fr/~lazaar/)
 
+* ** ** Catherine Pouget, *SPINOVA* <br>
+Catherine Pouget-Cauchy is the founder of Spinova. Spinova supports managers and organizations in their AI and technological projects changing minds and practices. She has supported change in companies like Bnpparibas, the Linde Group, the FEEF, Alpinia Finance, Lang Expertise … <br>
+Including IA technology in organizations requires a multi-disciplinary approach (HR, Organization, mathematics, IT, etc.), a suitable methodology (PMI 2022) and especially in the expertise business - higher cognitive activities.<br>
+She is a Management & Cognition Sciences Doctor from Paris-Dauphine University in partnership with Collège de France.<br>
+Dr Catherine Pouget-Cauchy is also the author of the Spinova methodology presented with the infinite loop graphic facilitation. <br>
+She has catalysed change in project management training with already the track record of a thousand innovative project managers trained to her methodology.<br>
+She has been teaching in schools and universities and especially in cognitive control and is conducting applied research into the digitalisation of software specifications.<br>
+She regularly speaks at conferences related to innovation, management and cognition (Centrale, Essec, Fnege, B612, Iena, IFIA, Paris Cité des Sciences, UPPF, …) and published articles (R&D 360, Veille Magazine…). <br>
+She has been proposed in 2019 for the Joliot-Curie Prize in the category Women-Research-Company.
+Personnal page: https://www.linkedin.com/in/catherinepouget/
+
 * **TBA**,  Giuseppe Valenzise, *L2S, CNRS - CentraleSupelec - Université Paris-Saclay* <br>
 TBA
