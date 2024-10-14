@@ -15,7 +15,7 @@ In 2017, Anthony co-founded HephIA, with the support of the SATT and the X-Up in
 Anthony’s trajectory illustrates the challenges and opportunities of transforming cutting-edge AI research into a scalable business. His blend of software development, AI expertise, and business acumen positions him to lead HephIA in tackling real-world challenges, from the lab to the legal sector.
 Personnal page: [https://www.linkedin.com/in/anthonycoutant/](https://www.linkedin.com/in/anthonycoutant/)
 
-* **TBA*, Eric Dugré, *Danone* <br>
+* **TBA*, Eric Dugré, *Danone Global Research & Innovation Center* <br>
 TBA <br>
 Personnal page: [https://www.linkedin.com/in/eric-dugre-b26b8442](https://www.linkedin.com/in/eric-dugre-b26b8442)
 
