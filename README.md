@@ -7,7 +7,7 @@
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 30%;"
+           width: 20%;"
     src="./Images/Logo_GenAI-SCHOOL.png" 
     alt="GenAI-School Logo">
 
@@ -89,6 +89,6 @@ More information about the speakers [here](./speakers).
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 30%;"
+           width: 80%;"
     src="./Images/sponsors1.png" 
     alt="Logos Sponsors">
