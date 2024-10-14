@@ -15,8 +15,9 @@ In 2017, Anthony co-founded HephIA, with the support of the SATT and the X-Up in
 Anthony’s trajectory illustrates the challenges and opportunities of transforming cutting-edge AI research into a scalable business. His blend of software development, AI expertise, and business acumen positions him to lead HephIA in tackling real-world challenges, from the lab to the legal sector.
 Personnal page: [https://www.linkedin.com/in/anthonycoutant/](https://www.linkedin.com/in/anthonycoutant/)
 
-* **TBA**, Mathieu Labeau, *Télécom<br>
+* **TBA**, Mathieu Labeau, *Télécom Paris, Institut Polytechnique de Paris*<br>
 TBA
+
 * **From PhD Student to Full Professor: An Academic Journey in AI Across France** - Nadjib Lazaar, *LISN, Université Paris-Saclay* <br>
 Nadjib Lazaar defended his HDR at the University of Montpellier in November 2022, marking a significant milestone in his academic journey. He holds an Engineer’s degree in Computer Science from Université Es-Senia d’Oran, Algeria (2007), where he graduated as valedictorian. His pursuit of knowledge continued with a Master’s degree and a PhD in Computer Science at the University of Rennes 1, completed in 2008 and 2011, respectively. <br>
 Following his doctoral studies, Nadjib worked as a postdoctoral researcher at the INRIA-Microsoft Joint Centre in Paris-Saclay until September 2012, contributing to cutting-edge research in the field. He then participated as a postdoctoral researcher in the European ICON project (FP7 FET-Open) in Montpellier from 2012 to 2013, enhancing his expertise in AI and innovative technologies. <br>
