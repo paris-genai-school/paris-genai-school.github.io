@@ -84,3 +84,11 @@ All deadlines are 23:59 AoE (UTC-12)
 * **Xi Wang** - LIX, IPP
 
 More information about the speakers [here](./speakers).
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="./Images/sponsors1.png" 
+    alt="Logos Sponsors">
