@@ -4,9 +4,9 @@
 
 ## Monday the 21st of October
 
-* 9:45 AM - 11:45 AM: **TBA**<br/>
+* 9:45 AM - 11:45 AM: **Introduction to Deep Generative Models**<br/>
 _Alasdair Newson_<br/>
-TBA
+Deep generative models are neural networks which produce random examples of complex data. In this session, we will review the bascis of the three currently most popular models : the Variational Autoencoder (VAE), the Generative Adversarial Network (GAN), and the Diffusion Model. We investigate them from the point of view of image synthesis, which is one of their most common, and high-profile, applications. We will first introduce the notion of a latent space, which is central to the first two of these models. We will then explore each model, introducing the mathematical and statistical tools required to understand them. We will compare their advantages and limitations, as well as the quality of their visual results. 
 
 * 2:00 PM - 4:00 PM: **Score based denoising diffusion: An introduction**<br/>
 _Eric Moulines_ <br/>
