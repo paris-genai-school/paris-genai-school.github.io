@@ -15,6 +15,9 @@ In 2017, Anthony co-founded HephIA, with the support of the SATT and the X-Up in
 Anthony’s trajectory illustrates the challenges and opportunities of transforming cutting-edge AI research into a scalable business. His blend of software development, AI expertise, and business acumen positions him to lead HephIA in tackling real-world challenges, from the lab to the legal sector.
 Personnal page: [https://www.linkedin.com/in/anthonycoutant/](https://www.linkedin.com/in/anthonycoutant/)
 
+* **TBA**, Massinissa Hamidi, *IBISC, Université d'Evry, Université Paris-Saclay* <br>
+TBA
+
 * **TBA**, Matthieu Labeau, *Télécom Paris, Institut Polytechnique de Paris*<br>
 TBA
 
