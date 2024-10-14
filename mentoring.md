@@ -33,7 +33,7 @@ Nadjib's research interests encompass Constraint Programming, Data Mining, Machi
 Nadjib’s career exemplifies a successful blend of academic achievement and practical application, positioning him as a prominent figure in the field of AI research and education. <br>
 Personnal page: [https://www.lirmm.fr/~lazaar/](https://www.lirmm.fr/~lazaar/)
 
-* ** ** Catherine Pouget, *SPINOVA* <br>
+* **How to respond to the questions raised by AI in (a priori) not AI-friendly professions?** Catherine Pouget, *SPINOVA* <br>
 Catherine Pouget-Cauchy is the founder of Spinova. Spinova supports managers and organizations in their AI and technological projects changing minds and practices. She has supported change in companies like Bnpparibas, the Linde Group, the FEEF, Alpinia Finance, Lang Expertise … <br>
 Including IA technology in organizations requires a multi-disciplinary approach (HR, Organization, mathematics, IT, etc.), a suitable methodology (PMI 2022) and especially in the expertise business - higher cognitive activities.<br>
 She is a Management & Cognition Sciences Doctor from Paris-Dauphine University in partnership with Collège de France.<br>
