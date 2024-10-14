@@ -95,7 +95,7 @@ TBA
 
 
 * 9:00 AM - 10:30 AM: **TBA**, <br/>
-_Antoine Bossulet_<br/>
+_Antoine Bosselut_<br/>
 TBA
 
 * 11:00 AM - 12:30 AM: **TBA**, <br/>
