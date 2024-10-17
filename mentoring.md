@@ -22,8 +22,9 @@ Personnal page: [https://www.linkedin.com/in/eric-dugre-b26b8442](https://www.li
 * **TBA**, Massinissa Hamidi, *IBISC, Université d'Evry, Université Paris-Saclay* <br>
 TBA
 
-* **TBA**, Matthieu Labeau, *Télécom Paris, Institut Polytechnique de Paris*<br>
-TBA
+* **How to position your research and contribute in a field transformed by LLMs?**, Matthieu Labeau, *Télécom Paris, Institut Polytechnique de Paris*<br>
+Matthieu Labeau joined Télécom Paris as a Senior Lecturer in 2019. He completed his doctorate at the University of Paris-Saclay, where he worked on the problems posed by large vocabularies in language modeling. He then became a postdoctoral fellow at the University of Edinburgh. His research areas, within automatic language processing, mainly concern representation learning and language modeling. <br>
+Personnal page: [https://www.telecom-paris.fr/matthieu-labeau?l=en](https://www.telecom-paris.fr/matthieu-labeau?l=en)
 
 * **From PhD Student to Full Professor: An Academic Journey in AI Across France** - Nadjib Lazaar, *LISN, Université Paris-Saclay* <br>
 Nadjib Lazaar defended his HDR at the University of Montpellier in November 2022, marking a significant milestone in his academic journey. He holds an Engineer’s degree in Computer Science from Université Es-Senia d’Oran, Algeria (2007), where he graduated as valedictorian. His pursuit of knowledge continued with a Master’s degree and a PhD in Computer Science at the University of Rennes 1, completed in 2008 and 2011, respectively. <br>
@@ -44,5 +45,12 @@ She regularly speaks at conferences related to innovation, management and cognit
 She has been proposed in 2019 for the Joliot-Curie Prize in the category Women-Research-Company.
 Personnal page: https://www.linkedin.com/in/catherinepouget/
 
-* **TBA**,  Giuseppe Valenzise, *L2S, CNRS - CentraleSupelec - Université Paris-Saclay* <br>
-TBA
+* **How AI has transformed multimedia research: opportunities and challenges?**,  Giuseppe Valenzise, *L2S, CNRS - CentraleSupelec - Université Paris-Saclay* <br>
+Giuseppe Valenzise is a CNRS researcher at Université Paris-Saclay, CNRS, CentraleSupélec, Laboratoire des Signaux et Systèmes. He is currently the head of the Multimedia and Networking team. Giuseppe obtained his Ph.D. degree from Politecnico di Milano, Italy, 2011. In 2012, he joined the French Centre National de la Recherche Scientifique (CNRS) as a permanent researcher, first at the Laboratoire Traitement et Communication de l’Information (LTCI) in Telecom Paristech, and from 2016 at L2S. He received the French « Habilitation à diriger des recherches » (HDR) from Université Paris-Sud in 2019.<br>
+
+Giuseppe's research interests span different fields of image and video processing, including traditional and learning-based image and video compression, light fields and point cloud coding, image/video quality assessment, high dynamic range imaging and applications of machine learning to image and video analysis. He has co-authored one book and over 120 research publications, including several award-winning papers. He received the EURASIP Early Career Award in 2018 for « significant contributions to video coding and analysis ».<br>
+
+Giuseppe Valenzise is the Editor in Chief of the EURASIP Journal on Image and Video Processing. He also serves/has served as Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Image Processing (outstanding editorial board member award in 2022 and 2023), Elsevier Signal Processing: Image communication. He is the Chair of the Multimedia Signal Processing (MMSP) technical committee of the IEEE Signal Processing Society. He is/was also an elected member of the Multimedia Systems and Applications (MSA) technical committee of the IEEE Circuits and Systems Society, of the MMSP and IVMSP technical committees of the IEEE Signal Processing Society, and of the Technical Area Committee on Visual Information Processing of EURASIP.<br>
+
+Giuseppe is one of the general co-chairs of the IEEE Int. Conference on Multimedia&Expo (ICME) 2025, held in Nantes, France.<br>
+Personnal page: [https://l2s.centralesupelec.fr/u/valenzise-giuseppe/](https://l2s.centralesupelec.fr/u/valenzise-giuseppe/)
