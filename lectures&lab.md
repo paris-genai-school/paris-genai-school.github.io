@@ -98,9 +98,10 @@ TBA
 _Antoine Bosselut_<br/>
 TBA
 
-* 11:00 AM - 12:30 AM: **TBA**, <br/>
+* 11:00 AM - 12:30 AM: **Story-level multimodal generative AI: from understanding to generating visual data using multiple modalities**, <br/>
  _Vicky Kalogeiton_<br/>
-TBA
+In this talk, I will address the importance of multimodality (i.e. using more than one modality, such as video, audio, text) for story-level recognition and generation. First, I will briefly introduce story-level multimodal video understanding, as audio, text, and visual temporal structure come naturally with the videos, and we can exploit them for free (FunnyNet-W and Short Film Dataset). Then, I will present how to guide the visual content generation from text and other modalities (classifier-free guidance, DynamicGuidance, ET).
+
 * 2:00 PM - 3:30 PM: **TBA**, <br/>
 _Xi Wang_<br/>
 TBA
