@@ -26,5 +26,6 @@ Some details :
 6. **The scenario generation problem: a GCN-VAE based approach**, Carbonera Michele, _University of Milano - Bicocca_
 7. **ESM sensor digital twin speed-up by AI injection : deep learning approch**, Cornu Matthieu, _Thalès, SATIE, ENS Paris-Saclay_
 8. **Hybridation of Symbolic AI and Deep Learning for Misinformation Detection in Dynamic Knowledge Bases**, Faye Géraud, _MICS, Centrale Supelec, Université Paris-Saclay_
-10. **Fast prediction of marine flood maps assisted by machine learning techniques**, Rohmer Jérémy, _BRGM_
-11. **Memory-Efficient Continual Learning With Neural Collapse Contrastive**, Dang Trung Anh, _LIFO, Université d'Orléans_
+9. **Fast prediction of marine flood maps assisted by machine learning techniques**, Rohmer Jérémy, _BRGM_
+10. **Memory-Efficient Continual Learning With Neural Collapse Contrastive**, Dang Trung Anh, _LIFO, Université d'Orléans_
+11. **Talking Heads: Bootstrapping Pre-trained LLMs to Build an end-to-end Speech Foundation Model**, Stefano Perna, _Roma Tre University_
