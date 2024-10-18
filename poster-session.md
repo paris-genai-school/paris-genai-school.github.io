@@ -18,7 +18,7 @@ Some details :
 * If you don't need printing, please email your name, affiliation, PDF file (if you want us to put it on the website) and poster title to gs.isn@universite-paris-saclay.fr before the 18th at 6 PM.
    
 ## Posters 
-### Monday :
+### Monday 21th of October
 1 - **Integrating expert knowledge with vision-language models for medical image retrieval**, Wei Wiaoyang, _LIPADE, Université Paris Cité_ <br>
 3 - **Survey of mtDNA recombination in opisthokonta**, Kravchenko Pavel, _Max Planck Institute_ <br>
 5 - **A Convolutional Autoencoder for 2D-3D Particle Reconstruction**, Tendyra Steven, _The University of Manchester / CrystalGrower Ltd_<br>
@@ -26,7 +26,7 @@ Some details :
 9 - **Fast prediction of marine flood maps assisted by machine learning techniques**, Rohmer Jérémy, _BRGM_<br>
 12 - **Using a Language Model for Near-Surface Seismic Imaging**, José Cunha Teixeira, _Sordonne Université, Mines Paris-PSl, SNCF Réseau_<br>
 
-## Wednesday 
+### Wednesday 23 of October
 2 - **Learning Structural Causal Models through Deep Generative Models: A Survey on Methods, Guarantees, and Challenges**, Audrey Poinsot, _INRIA Saclay, Ekimetrics_<br>
 4 - **Efficient Exploration of Image Classifier Failures with Bayesian Optimization and Text-to-Image Models**, Le Coz Adrien, _IRT SystemX, ONERA, Université Paris-Saclay_<br>
 6 - **The scenario generation problem: a GCN-VAE based approach**, Carbonera Michele, _University of Milano - Bicocca_<br>
