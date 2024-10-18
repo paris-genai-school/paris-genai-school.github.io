@@ -20,7 +20,8 @@ TBA <br>
 Personnal page: [https://www.linkedin.com/in/eric-dugre-b26b8442](https://www.linkedin.com/in/eric-dugre-b26b8442)
 
 * **TBA**, Massinissa Hamidi, *IBISC, Université d'Evry, Université Paris-Saclay* <br>
-TBA
+Massinissa HAMIDI est maître de conférences à l'université d'Évry Paris-Saclay. Il a effectué un master en informatique à l’université Paris Diderot (actuelle Université Paris Cité) autour des logiciels sûrs avec un focus sur le design de compilateurs et l’étude de la sémantique des langages de programmation. Il a mené ses travaux de thèse en intelligence artificielle à l’université Sorbonne Paris Nord autour du méta-apprentissage. ATER à l’université de Picardie Jules Verne pendant un an, il rejoint par la suite le laboratoire LISSI à l’université Paris Est en tant que postdoctorant pour travailler sur des projets européens en collaboration avec le groupe ADP (Aéroports de Paris).  Les recherches de Massinissa HAMIDI portent sur le méta‐apprentissage, ou comment développer des agents qui apprennent à apprendre par eux-mêmes, avec des applications à l'internet des objets, la médecine personnalisée et aux données omiques.
+Personnal page: [https://hamidimassinissa.github.io/](https://hamidimassinissa.github.io/)
 
 * **How to position your research and contribute in a field transformed by LLMs?**, Matthieu Labeau, *Télécom Paris, Institut Polytechnique de Paris*<br>
 Matthieu Labeau joined Télécom Paris as a Senior Lecturer in 2019. He completed his doctorate at the University of Paris-Saclay, where he worked on the problems posed by large vocabularies in language modeling. He then became a postdoctoral fellow at the University of Edinburgh. His research areas, within automatic language processing, mainly concern representation learning and language modeling. <br>
