@@ -18,6 +18,8 @@ Personnal page: [https://www.linkedin.com/in/anthonycoutant/](https://www.linked
 * **TBA**, Eric Dugré, *Danone Global Research & Innovation Center* <br>
 TBA <br>
 Personnal page: [https://www.linkedin.com/in/eric-dugre-b26b8442](https://www.linkedin.com/in/eric-dugre-b26b8442)
+* **TPA**, Tristan François, _Veeton_ <br>
+TBA
 
 * **TBA**, Massinissa Hamidi, *IBISC, Université d'Evry, Université Paris-Saclay* <br>
 Massinissa HAMIDI est maître de conférences à l'université d'Évry Paris-Saclay. Il a effectué un master en informatique à l’université Paris Diderot (actuelle Université Paris Cité) autour des logiciels sûrs avec un focus sur le design de compilateurs et l’étude de la sémantique des langages de programmation. Il a mené ses travaux de thèse en intelligence artificielle à l’université Sorbonne Paris Nord autour du méta-apprentissage. ATER à l’université de Picardie Jules Verne pendant un an, il rejoint par la suite le laboratoire LISSI à l’université Paris Est en tant que postdoctorant pour travailler sur des projets européens en collaboration avec le groupe ADP (Aéroports de Paris).  Les recherches de Massinissa HAMIDI portent sur le méta‐apprentissage, ou comment développer des agents qui apprennent à apprendre par eux-mêmes, avec des applications à l'internet des objets, la médecine personnalisée et aux données omiques.
@@ -48,10 +50,7 @@ Personnal page: https://www.linkedin.com/in/catherinepouget/
 
 * **How AI has transformed multimedia research: opportunities and challenges?**,  Giuseppe Valenzise, *L2S, CNRS - CentraleSupelec - Université Paris-Saclay* <br>
 Giuseppe Valenzise is a CNRS researcher at Université Paris-Saclay, CNRS, CentraleSupélec, Laboratoire des Signaux et Systèmes. He is currently the head of the Multimedia and Networking team. Giuseppe obtained his Ph.D. degree from Politecnico di Milano, Italy, 2011. In 2012, he joined the French Centre National de la Recherche Scientifique (CNRS) as a permanent researcher, first at the Laboratoire Traitement et Communication de l’Information (LTCI) in Telecom Paristech, and from 2016 at L2S. He received the French « Habilitation à diriger des recherches » (HDR) from Université Paris-Sud in 2019.<br>
-
 Giuseppe's research interests span different fields of image and video processing, including traditional and learning-based image and video compression, light fields and point cloud coding, image/video quality assessment, high dynamic range imaging and applications of machine learning to image and video analysis. He has co-authored one book and over 120 research publications, including several award-winning papers. He received the EURASIP Early Career Award in 2018 for « significant contributions to video coding and analysis ».<br>
-
 Giuseppe Valenzise is the Editor in Chief of the EURASIP Journal on Image and Video Processing. He also serves/has served as Associate Editor for IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Image Processing (outstanding editorial board member award in 2022 and 2023), Elsevier Signal Processing: Image communication. He is the Chair of the Multimedia Signal Processing (MMSP) technical committee of the IEEE Signal Processing Society. He is/was also an elected member of the Multimedia Systems and Applications (MSA) technical committee of the IEEE Circuits and Systems Society, of the MMSP and IVMSP technical committees of the IEEE Signal Processing Society, and of the Technical Area Committee on Visual Information Processing of EURASIP.<br>
-
 Giuseppe is one of the general co-chairs of the IEEE Int. Conference on Multimedia&Expo (ICME) 2025, held in Nantes, France.<br>
 Personnal page: [https://l2s.centralesupelec.fr/u/valenzise-giuseppe/](https://l2s.centralesupelec.fr/u/valenzise-giuseppe/)
