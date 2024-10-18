@@ -33,3 +33,4 @@ Some details :
 8 - **Hybridation of Symbolic AI and Deep Learning for Misinformation Detection in Dynamic Knowledge Bases**, Faye Géraud, _MICS, Centrale Supelec, Université Paris-Saclay_<br>
 10 - **Memory-Efficient Continual Learning With Neural Collapse Contrastive**, Dang Trung Anh, _LIFO, Université d'Orléans_<br>
 11 - **Talking Heads: Bootstrapping Pre-trained LLMs to Build an end-to-end Speech Foundation Model**, Stefano Perna, _Roma Tre University_<br>
+13 - **Learning to Sample Solutions for Combinatorial Optimization Problems**, Alexandre Schulz, _Laboratoire d'Informatique Paris-Nord_
