@@ -18,14 +18,18 @@ Some details :
 * If you don't need printing, please email your name, affiliation, PDF file (if you want us to put it on the website) and poster title to gs.isn@universite-paris-saclay.fr before the 18th at 6 PM.
    
 ## Posters 
+### Monday :
 1. **Integrating expert knowledge with vision-language models for medical image retrieval**, Wei Wiaoyang, _LIPADE, Université Paris Cité_
-2. **Learning Structural Causal Models through Deep Generative Models: A Survey on Methods, Guarantees, and Challenges**, Audrey Poinsot, _INRIA Saclay, Ekimetrics_
 3. **Survey of mtDNA recombination in opisthokonta**, Kravchenko Pavel, _Max Planck Institute_
-4. **Efficient Exploration of Image Classifier Failures with Bayesian Optimization and Text-to-Image Models**, Le Coz Adrien, _IRT SystemX, ONERA, Université Paris-Saclay_
 5. **A Convolutional Autoencoder for 2D-3D Particle Reconstruction**, Tendyra Steven, _The University of Manchester / CrystalGrower Ltd_
-6. **The scenario generation problem: a GCN-VAE based approach**, Carbonera Michele, _University of Milano - Bicocca_
 7. **ESM sensor digital twin speed-up by AI injection : deep learning approch**, Cornu Matthieu, _Thalès, SATIE, ENS Paris-Saclay_
-8. **Hybridation of Symbolic AI and Deep Learning for Misinformation Detection in Dynamic Knowledge Bases**, Faye Géraud, _MICS, Centrale Supelec, Université Paris-Saclay_
 9. **Fast prediction of marine flood maps assisted by machine learning techniques**, Rohmer Jérémy, _BRGM_
+12. **Using a Language Model for Near-Surface Seismic Imaging**, José Cunha Teixeira, _Sordonne Université, Mines Paris-PSl, SNCF Réseau_
+
+## Wednesday 
+2. **Learning Structural Causal Models through Deep Generative Models: A Survey on Methods, Guarantees, and Challenges**, Audrey Poinsot, _INRIA Saclay, Ekimetrics_
+4. **Efficient Exploration of Image Classifier Failures with Bayesian Optimization and Text-to-Image Models**, Le Coz Adrien, _IRT SystemX, ONERA, Université Paris-Saclay_
+6. **The scenario generation problem: a GCN-VAE based approach**, Carbonera Michele, _University of Milano - Bicocca_
+8. **Hybridation of Symbolic AI and Deep Learning for Misinformation Detection in Dynamic Knowledge Bases**, Faye Géraud, _MICS, Centrale Supelec, Université Paris-Saclay_
 10. **Memory-Efficient Continual Learning With Neural Collapse Contrastive**, Dang Trung Anh, _LIFO, Université d'Orléans_
 11. **Talking Heads: Bootstrapping Pre-trained LLMs to Build an end-to-end Speech Foundation Model**, Stefano Perna, _Roma Tre University_
