@@ -18,7 +18,7 @@ Personnal page: [https://www.linkedin.com/in/anthonycoutant/](https://www.linked
 * **TBA**, Eric Dugré, *Danone Global Research & Innovation Center* <br>
 TBA <br>
 Personnal page: [https://www.linkedin.com/in/eric-dugre-b26b8442](https://www.linkedin.com/in/eric-dugre-b26b8442)
-* ** Founding an AI Startup Right Out of School**, Tristan François, _Veeton_ <br>
+* **Founding an AI Startup Right Out of School**, Tristan François, _Veeton_ <br>
 Tristan François is the co-founder of Veeton, a startup specializing in generative AI for virtual try-on technology. A graduate of École Polytechnique and Télécom Paris, Tristan began working on virtual try-on during his final year at Télécom Paris as part of a research project. <br>
 During a research internship in Montreal, Tristan worked on reinforcement learning applied to constraint programming. It was during this time that he discovered the field of virtual try-on. The following year, he tailored his academic curriculum to develop skills in generative AI, laying the groundwork for his future entrepreneurial venture. <br>
 In 2023, shortly after completing his studies, Tristan co-founded Veeton. The startup faced the typical challenges of a new venture in a highly technical field. Since its inception, Veeton has focused on building a team, developing their initial product, and securing funding to support their growth and innovation in the AI-driven virtual try-on space.
