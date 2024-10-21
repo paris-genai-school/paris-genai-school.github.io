@@ -97,7 +97,7 @@ TBA
 ## Friday the 25th of October
 
 
-* 9:00 AM - 10:30 AM: **TBA**, <br/>
+* 9:00 AM - 10:30 AM: **LLM Reasoning from the Lab to the Real World**, <br/>
 _Antoine Bosselut_<br/>
 TBA
 
