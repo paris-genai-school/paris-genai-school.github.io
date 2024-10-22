@@ -33,4 +33,6 @@ Some details :
 8 - **Hybridation of Symbolic AI and Deep Learning for Misinformation Detection in Dynamic Knowledge Bases**, Faye Géraud, _MICS, Centrale Supelec, Université Paris-Saclay_<br>
 10 - **Memory-Efficient Continual Learning With Neural Collapse Contrastive**, Dang Trung Anh, _LIFO, Université d'Orléans_<br>
 11 - **Talking Heads: Bootstrapping Pre-trained LLMs to Build an end-to-end Speech Foundation Model**, Stefano Perna, _Roma Tre University_<br>
-13 - **Learning to Sample Solutions for Combinatorial Optimization Problems**, Alexandre Schulz, _Laboratoire d'Informatique Paris-Nord_
+13 - **Learning to Sample Solutions for Combinatorial Optimization Problems**, Alexandre Schulz, _Laboratoire d'Informatique Paris-Nord_<br>
+14 - **UAV Swarm Trajectory Design for Wireless Networks Using Genetic Algorithm-Driven Repulsion Forces**, Kaleem Arshid, _Université of Genova, Université of Madrid_<br>
+15 - **Automatic assessment of legal protection of marine biodiversity using NLP**, Youssef Al Mouatamid, _Univ Brest, Cadi Ayyad University_<br>
