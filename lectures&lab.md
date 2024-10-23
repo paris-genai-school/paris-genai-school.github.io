@@ -80,11 +80,11 @@ As opposed to text and video, the relevant training data for this domain include
 _Denis Trystram_<br/>
 In this talk, we will start with an overly-used old-timer: the expected-complete data log-likelihood. We will demonstrate the interest of this object for learning with latent variables, and showcase it with a few basic probabilistic models. We will move on to discuss more complex shallow models for audio-visual fusion, and quickly move on to neural models to process auditory and visual data, either in sequences or frame-wise. We will end up demonstrating the interest of this framework with more recent generative models. Applications will range from tracking, to speech enhancement, as well as motion prediction.
 
-* 2:00 PM - 3:30 PM: **A primer on physics-informed learning**, <br/>
+* 11:00 PM - 12:30 PM: **A primer on physics-informed learning**, <br/>
  _Claire Boyer_<br/>
 Physics-informed machine learning combines the expressiveness of data-based approaches with the interpretability of physical models. In this context, we consider a general regression problem where the empirical risk is regularized by a partial differential equation that quantifies the physical inconsistency. Practitioners often resort to physics-informed neural networks (PINNs) to solve this kind of problem. After discussing some strengths and limitations of PINNs, we prove that for linear differential priors, the problem can be formulated directly as a kernel regression task, giving a rigorous framework to analyze physics-informed ML. In particular, the physical prior can help in boosting the estimator convergence. We also propose the PIKL algorithm (PIKL for physics-informed kernel learning) as a numerical strategy to implement this kernel method.
 
-* 4:00 PM - 5:30 PM: **Audio Generative AI**, <br/>
+* 2:00 PM - 3:30 PM: **Audio Generative AI**, <br/>
 _Gael Richard_<br/>
 In this talk, we will present the recent progresses in audio generative AI. After a short introduction recalling the specificities of an audio signal, we will introduce some of the most important architectures of deep neural audio synthesis models. We will also briefly discuss some of the existing strategies for cross-modal audio generation and illustrate the potential of model-based (or hybrid) deep learning  for audio generative AI.
 
