@@ -16,7 +16,7 @@ In 2017, Anthony co-founded HephIA, with the support of the SATT and the X-Up in
 Anthony’s trajectory illustrates the challenges and opportunities of transforming cutting-edge AI research into a scalable business. His blend of software development, AI expertise, and business acumen positions him to lead HephIA in tackling real-world challenges, from the lab to the legal sector.
 Personnal page: [https://www.linkedin.com/in/anthonycoutant/](https://www.linkedin.com/in/anthonycoutant/)
 
-* **TBA**, Eric Dugré, *Danone Global Research & Innovation Center* <br>
+* **International health through food company: the Emergence of AI**, Eric Dugré, *Danone Global Research & Innovation Center* <br>
 TBA <br>
 Personnal page: [https://www.linkedin.com/in/eric-dugre-b26b8442](https://www.linkedin.com/in/eric-dugre-b26b8442)
 * **Founding an AI Startup Right Out of School**, Tristan François, _Veeton_ <br>
@@ -25,7 +25,7 @@ During a research internship in Montreal, Tristan worked on reinforcement learni
 In 2023, shortly after completing his studies, Tristan co-founded Veeton. The startup faced the typical challenges of a new venture in a highly technical field. Since its inception, Veeton has focused on building a team, developing their initial product, and securing funding to support their growth and innovation in the AI-driven virtual try-on space.
 
 
-* **TBA**, Massinissa Hamidi, *IBISC, Université d'Evry, Université Paris-Saclay* <br>
+* **MCF: a traditionnal academic journey in France**, Massinissa Hamidi, *IBISC, Université d'Evry, Université Paris-Saclay* <br>
 Massinissa HAMIDI est maître de conférences à l'université d'Évry Paris-Saclay. Il a effectué un master en informatique à l’université Paris Diderot (actuelle Université Paris Cité) autour des logiciels sûrs avec un focus sur le design de compilateurs et l’étude de la sémantique des langages de programmation. Il a mené ses travaux de thèse en intelligence artificielle à l’université Sorbonne Paris Nord autour du méta-apprentissage. ATER à l’université de Picardie Jules Verne pendant un an, il rejoint par la suite le laboratoire LISSI à l’université Paris Est en tant que postdoctorant pour travailler sur des projets européens en collaboration avec le groupe ADP (Aéroports de Paris).  Les recherches de Massinissa HAMIDI portent sur le méta‐apprentissage, ou comment développer des agents qui apprennent à apprendre par eux-mêmes, avec des applications à l'internet des objets, la médecine personnalisée et aux données omiques.
 Personnal page: [https://hamidimassinissa.github.io/](https://hamidimassinissa.github.io/)
 
