@@ -39,7 +39,7 @@ Personnal page: [https://www.telecom-paris.fr/matthieu-labeau?l=en](https://www.
 * **From Software Engineer to Knowledge Graph Researcher: A Journey Through Industry and Academia** - Pierre-Henri Paris, *LISN, Université Paris-Saclay* <br>
 I am an associate professor at Paris-Saclay University, with a PhD from Sorbonne University and postdoctoral experience at Telecom Paris. Before starting my academic career, I spent 10 years as a software engineer, which gave me a unique perspective on research challenges and industry needs. My research focuses on knowledge graphs, knowledge representation, and natural language processing (NLP).<br>
 I began my PhD later in life, balancing academic demands with family, having my first child during my PhD and my second during my postdoc. I emphasize the importance of networking -- not only for finding a job but also for support throughout the journey. I would love to share insights on how to successfully navigate career transitions, balance personal life with research, and leverage your network to thrive in both academia and industry. <br>
-Personnal page: [[https://www.lirmm.fr/~lazaar/](https://phparis.net/]([https://www.lirmm.fr/~lazaar/](https://phparis.net/))
+Personnal page: [https://phparis.net/](https://phparis.net/)
 
 * **How to respond to the questions raised by AI in (a priori) not AI-friendly professions?** Catherine Pouget, *SPINOVA* <br>
 Catherine Pouget-Cauchy is the founder of Spinova. Spinova supports managers and organizations in their AI and technological projects changing minds and practices. She has supported change in companies like Bnpparibas, the Linde Group, the FEEF, Alpinia Finance, Lang Expertise … <br>
