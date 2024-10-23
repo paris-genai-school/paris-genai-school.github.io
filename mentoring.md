@@ -4,7 +4,8 @@ Meet inspiring researchers and start-ups and ask them questions!
 What were their main difficulties? What are their motivation? 
 How to create its start-up? Feel free!
 
-How: Choose 2 mentors from the following list (a form is coming) and have ~20 minutes to chat with them in small groups. 
+How: Choose 2 mentors from the following list and have ~20 minutes to chat with them in small groups. 
+Form to make your choice: [https://forms.office.com/e/5zvCm5z0bW](https://forms.office.com/e/5zvCm5z0bW)
 
 * **From Software Engineering to AI Researcher and Startup Innovator** - Anthony Coutant, *HephIA* <br>
 Anthony Coutant is the Co-founder, Co-CEO, and CTO of HephIA, a startup developing innovative Generative AI solutions for the legal sector. With a diverse background that spans software engineering, AI research, and business management, Anthony’s career reflects a unique combination of technical expertise and entrepreneurial insight. <br>
