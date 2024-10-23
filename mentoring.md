@@ -17,8 +17,11 @@ Anthony’s trajectory illustrates the challenges and opportunities of transform
 Personnal page: [https://www.linkedin.com/in/anthonycoutant/](https://www.linkedin.com/in/anthonycoutant/)
 
 * **International health through food company: the Emergence of AI**, Eric Dugré, *Danone Global Research & Innovation Center* <br>
-TBA <br>
+Eric Dugré is a seasoned R&D Director with extensive experience in process and product innovation within the food industry, particularly dairy and baked goods. Since 2023, he has focused on leading global projects, enhancing efficiency through industrial reformulation, and mentoring talent. Previously, he directed the Danone Global R&I Center from 2018 to 2023, where he oversaw a transformative initiative to develop a new research facility and led various innovation programs that resulted in significant revenue growth and numerous patents.<br>
+From 2010 to 2018, he held various roles at Danone Dairy, including Product Design Director and Dairy Technology Director, where he managed teams of technologists, spearheaded product launches, and implemented technology solutions that improved profitability. His earlier career includes leadership positions at Danone's pilot plants and involvement in industrial support for biscuits, where he contributed to productivity improvements across multiple factories.<br>
+Dugré holds degrees in Food Engineering and Food Processing and has cultivated a reputation for building effective R&D organizations and fostering team growth<br>
 Personnal page: [https://www.linkedin.com/in/eric-dugre-b26b8442](https://www.linkedin.com/in/eric-dugre-b26b8442)
+
 * **Founding an AI Startup Right Out of School**, Tristan François, _Veeton_ <br>
 Tristan François is the co-founder of Veeton, a startup specializing in generative AI for virtual try-on technology. A graduate of École Polytechnique and Télécom Paris, Tristan began working on virtual try-on during his final year at Télécom Paris as part of a research project. <br>
 During a research internship in Montreal, Tristan worked on reinforcement learning applied to constraint programming. It was during this time that he discovered the field of virtual try-on. The following year, he tailored his academic curriculum to develop skills in generative AI, laying the groundwork for his future entrepreneurial venture. <br>
