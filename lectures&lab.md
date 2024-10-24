@@ -2,6 +2,8 @@
 
 ![alt text](Images/Planning.jpg "Schedule")
 
+Slides are avalaible here: [https://github.com/paris-genai-school/lectures/](https://github.com/paris-genai-school/lectures/)
+
 ## Monday the 21st of October
 
 * 9:45 AM - 11:45 AM: **Introduction to Deep Generative Models**<br/>
