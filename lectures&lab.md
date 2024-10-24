@@ -2,7 +2,7 @@
 
 ![alt text](Images/Planning.jpg "Schedule")
 
-Slides are avalaible here: [https://github.com/paris-genai-school/lectures/](https://github.com/paris-genai-school/lectures/)
+Slides and lab stuff are avalaible here: [https://github.com/paris-genai-school/lectures/](https://github.com/paris-genai-school/lectures/)
 
 ## Monday the 21st of October
 
