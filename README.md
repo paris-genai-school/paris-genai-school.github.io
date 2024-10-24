@@ -18,7 +18,7 @@ PUIO, Building 640, Université Paris-Saclay <br>
 
 ## Mentors 
 Please, find the mentors affectation here: [https://paris-genai-school.github.io/Mentors'%20Choices.pdf](https://paris-genai-school.github.io/Mentors'%20Choices.pdf)
-* Mentors' rooms:
+Mentors' rooms:
 * Giuseppe D203
 * Pierre-Henri B107
 * Tristan B108
