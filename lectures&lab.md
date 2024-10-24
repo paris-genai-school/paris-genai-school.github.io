@@ -78,7 +78,7 @@ As opposed to text and video, the relevant training data for this domain include
 
 * 9:00 AM - 10:30 AM: **Environmental and Societal impacts of (generative) AI**, <br/>
 _Denis Trystram_<br/>
-In this talk, we will start with an overly-used old-timer: the expected-complete data log-likelihood. We will demonstrate the interest of this object for learning with latent variables, and showcase it with a few basic probabilistic models. We will move on to discuss more complex shallow models for audio-visual fusion, and quickly move on to neural models to process auditory and visual data, either in sequences or frame-wise. We will end up demonstrating the interest of this framework with more recent generative models. Applications will range from tracking, to speech enhancement, as well as motion prediction.
+ I this talk, I will start by describing a big picture on the environmental issues of the digital world: The footprint of the domain keeps increasing for a long time. I will demonstrate that despite some globally positive impacts, the domain continues to growth. AI plays a special role of accelerator in this landscape. I will discuss some scenarios to mitigate the crisis and analyze their limits.
 
 * 11:00 PM - 12:30 PM: **A primer on physics-informed learning**, <br/>
  _Claire Boyer_<br/>
