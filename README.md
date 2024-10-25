@@ -16,19 +16,8 @@ PUIO, Building 640, Université Paris-Saclay <br>
 91400 Orsay<br>
 [https://maps.app.goo.gl/SfnGKoL126r63VJh6](https://maps.app.goo.gl/SfnGKoL126r63VJh6)
 
-## Mentors 
-Please, find the mentors affectation here: [https://paris-genai-school.github.io/Mentors'%20Choices.pdf](https://paris-genai-school.github.io/Mentors'%20Choices.pdf)
-Mentors' rooms:
-* Giuseppe D203
-* Pierre-Henri B107
-* Tristan B108
-* Mathieu C105
-* Catherine E105
-* Eric C207
-* Anthony Amphi
-* Massinissa E107
 
-If one of your slots is blanck, please come to Marie to find you a meetings that suits you: we weren't able to satisfy your choices.
+If you have any question, please ask Marie: marie.laveau@universite-paris-saclay.fr
 
 ## Description
 
