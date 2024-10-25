@@ -7,6 +7,17 @@ How to create its start-up? Feel free!
 How: Choose 2 mentors from the following list and have ~20 minutes to chat with them in small groups. 
 Form to make your choice: [https://forms.office.com/e/5zvCm5z0bW](https://forms.office.com/e/5zvCm5z0bW)
 
+Mentors' rooms:
+* Giuseppe D203
+* Pierre-Henri B107
+* Tristan B108
+* Mathieu C105
+* Catherine E105
+* Eric C207
+* Anthony Amphi
+* Massinissa E107
+
+
 * **From Software Engineering to AI Researcher and Startup Innovator** - Anthony Coutant, *HephIA* <br>
 Anthony Coutant is the Co-founder, Co-CEO, and CTO of HephIA, a startup developing innovative Generative AI solutions for the legal sector. With a diverse background that spans software engineering, AI research, and business management, Anthony’s career reflects a unique combination of technical expertise and entrepreneurial insight. <br>
 Anthony began his journey with a master’s degree in MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises), which provided a strong foundation in software engineering and business management. His apprenticeship during this period equipped him with the practical skills needed to navigate the intersection of technology and business.<br>
