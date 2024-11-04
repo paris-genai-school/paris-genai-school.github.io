@@ -66,9 +66,10 @@ In a constantly evolving field, we will finally reflect upon where future develo
 _Xavier Alameda-Pineda_<br/>
 In this talk, we will start with an overly-used old-timer: the expected-complete data log-likelihood. We will demonstrate the interest of this object for learning with latent variables, and showcase it with a few basic probabilistic models. We will move on to discuss more complex shallow models for audio-visual fusion, and quickly move on to neural models to process auditory and visual data, either in sequences or frame-wise. We will end up demonstrating the interest of this framework with more recent generative models. Applications will range from tracking, to speech enhancement, as well as motion prediction.
 
-* 2:00 PM - 3:30 PM: **Large Language Models: The Falcon case study**, <br/>
+* 2:00 PM - 3:30 PM: **Generative AI: Challenges and opportunities**, <br/>
   _Merouane Debbah_<br/>
-Reinforcement learning from human feedback (RLHF) is a major paradigm for the alignment of large language models. In this session, we will go through the basics of RLHF: the basic setup and background on RL, reward and preference models, the online and offline approaches to RLHF, their extensions and limitations. The theoretical discussion will be complemented by a practical session that hinges on the fundamentals.
+  
+This talk will review the evolving landscape of generative AI.  We will  address critical challenges, including the sustainability of generative AI  models, data limitations  and the complexity of scaling  within the energy wall. By examining both the hurdles and potential pathways forward, we aim to shed light on how generative AI can drive transformative progress while navigating its inherent obstacles.
 
 
 * 4:00 PM - 5:30 PM: **Confronting Climate Change with Generative and Self-supervised Machine Learning**, <br/>
