@@ -68,7 +68,7 @@ In this talk, we will start with an overly-used old-timer: the expected-complete
 
 * 2:00 PM - 3:30 PM: **Generative AI: Challenges and opportunities**, <br/>
   _Merouane Debbah_<br/>
-This talk will review the evolving landscape of generative AI.  We will  address critical challenges, including the sustainability of generative AI  models, data limitations  and the complexity of scaling  within the energy wall. By examining both the hurdles and potential pathways forward, we aim to shed light on how generative AI can drive transformative progress while navigating its inherent obstacles.
+TThis talk will review the evolving landscape of generative AI.  We will  address critical challenges, including the sustainability of generative AI  models, data limitations  and the complexity of scaling  within the energy wall. By examining both the hurdles and potential pathways forward, we aim to shed light on how generative AI can drive transformative progress while navigating its inherent obstacles.
 
 * 4:00 PM - 5:30 PM: **Confronting Climate Change with Generative and Self-supervised Machine Learning**, <br/>
 _Claire Monteleoni_<br/>
